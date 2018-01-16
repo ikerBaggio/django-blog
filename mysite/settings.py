@@ -25,7 +25,7 @@ SECRET_KEY = '01a1jfc!s^maa-qy1#_cz)9z$@qwazuo)b29@&(gz#^^pp!y!0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ikerbaggio.pythonanywhere.com']
 
 
 # Application definition
